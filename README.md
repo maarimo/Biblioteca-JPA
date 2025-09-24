@@ -1,5 +1,13 @@
 ## Biblioteca-JPA
 
+## Descrição
+Projeto em **Java** utilizando **JPA** para gerenciar uma biblioteca simplificada.  
+Permite cadastrar usuários, livros, registrar empréstimos e devoluções, e consultar dados da biblioteca.
+
+O projeto foi desenvolvido seguindo o padrão **DAO** (Data Access Object) e usando **Hibernate** como provedor JPA.
+
+---
+
 ## Funcionalidades
 
 ### Usuários
